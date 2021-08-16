@@ -1,0 +1,322 @@
+ CYCLE NUMBER            1
+ Capacitancies, C00, C01, C02
+   1.58833981       1.17467606       1.88702643E-02
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            2
+ Capacitancies, C00, C01, C02
+   4.64214897      0.902489305      -4.09940165E-03
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            3
+ Capacitancies, C00, C01, C02
+   6.21315098      0.843484402       1.54277068E-02
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            4
+ Capacitancies, C00, C01, C02
+   7.01970768      0.869999588       4.30618972E-02
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            5
+ Capacitancies, C00, C01, C02
+   7.43356752      0.923254251       6.68344423E-02
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            6
+ Capacitancies, C00, C01, C02
+   7.64646149      0.978088856       8.40268582E-02
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            7
+ Capacitancies, C00, C01, C02
+   7.75689316       1.02522230       9.52757895E-02
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            8
+ Capacitancies, C00, C01, C02
+   7.81524897       1.06248140      0.102090523    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER            9
+ Capacitancies, C00, C01, C02
+   7.84716177       1.09057498      0.105920136    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           10
+ Capacitancies, C00, C01, C02
+   7.86561298       1.11114192      0.107882097    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           11
+ Capacitancies, C00, C01, C02
+   7.87713861       1.12590671      0.108750209    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           12
+ Capacitancies, C00, C01, C02
+   7.88500500       1.13636601      0.109022096    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           13
+ Capacitancies, C00, C01, C02
+   7.89085245       1.14370763      0.109000057    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           14
+ Capacitancies, C00, C01, C02
+   7.89550209       1.14882970      0.108857274    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           15
+ Capacitancies, C00, C01, C02
+   7.89936209       1.15239024      0.108685724    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           16
+ Capacitancies, C00, C01, C02
+   7.90265846       1.15486145      0.108529560    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           17
+ Capacitancies, C00, C01, C02
+   7.90551376       1.15657783      0.108406007    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           18
+ Capacitancies, C00, C01, C02
+   7.90799999       1.15777338      0.108318344    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           19
+ Capacitancies, C00, C01, C02
+   7.91017437       1.15861058      0.108262584    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           20
+ Capacitancies, C00, C01, C02
+   7.91207600       1.15920222      0.108233050    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           21
+ Capacitancies, C00, C01, C02
+   7.91373730       1.15962529      0.108223334    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           22
+ Capacitancies, C00, C01, C02
+   7.91518831       1.15993285      0.108227506    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           23
+ Capacitancies, C00, C01, C02
+   7.91645432       1.16016126      0.108241156    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           24
+ Capacitancies, C00, C01, C02
+   7.91755962       1.16033506      0.108260706    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           25
+ Capacitancies, C00, C01, C02
+   7.91851807       1.16047096      0.108283155    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           26
+ Capacitancies, C00, C01, C02
+   7.91935062       1.16058052      0.108306974    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           27
+ Capacitancies, C00, C01, C02
+   7.92007494       1.16067123      0.108330518    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           28
+ Capacitancies, C00, C01, C02
+   7.92070103       1.16074848      0.108353242    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           29
+ Capacitancies, C00, C01, C02
+   7.92124224       1.16081631      0.108374439    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           30
+ Capacitancies, C00, C01, C02
+   7.92171431       1.16087604      0.108393908    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           31
+ Capacitancies, C00, C01, C02
+   7.92211723       1.16093051      0.108411670    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           32
+ Capacitancies, C00, C01, C02
+   7.92246819       1.16098022      0.108427465    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           33
+ Capacitancies, C00, C01, C02
+   7.92276764       1.16102576      0.108441427    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           34
+ Capacitancies, C00, C01, C02
+   7.92302513       1.16106820      0.108453840    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           35
+ Capacitancies, C00, C01, C02
+   7.92324162       1.16110790      0.108464688    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           36
+ Capacitancies, C00, C01, C02
+   7.92342901       1.16114473      0.108474076    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           37
+ Capacitancies, C00, C01, C02
+   7.92359114       1.16117907      0.108482227    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           38
+ Capacitancies, C00, C01, C02
+   7.92372847       1.16121113      0.108489297    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           39
+ Capacitancies, C00, C01, C02
+   7.92384005       1.16124141      0.108495414    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           40
+ Capacitancies, C00, C01, C02
+   7.92393875       1.16126943      0.108500570    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           41
+ Capacitancies, C00, C01, C02
+   7.92401934       1.16129589      0.108505055    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           42
+ Capacitancies, C00, C01, C02
+   7.92408657       1.16132021      0.108508691    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           43
+ Capacitancies, C00, C01, C02
+   7.92414379       1.16134310      0.108511806    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           44
+ Capacitancies, C00, C01, C02
+   7.92418718       1.16136456      0.108514532    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           45
+ Capacitancies, C00, C01, C02
+   7.92422676       1.16138434      0.108516760    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           46
+ Capacitancies, C00, C01, C02
+   7.92425728       1.16140270      0.108518541    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           47
+ Capacitancies, C00, C01, C02
+   7.92428303       1.16141999      0.108520061    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           48
+ Capacitancies, C00, C01, C02
+   7.92429972       1.16143584      0.108521275    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           49
+ Capacitancies, C00, C01, C02
+   7.92431784       1.16145074      0.108522251    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           50
+ Capacitancies, C00, C01, C02
+   7.92432737       1.16146433      0.108523041    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           51
+ Capacitancies, C00, C01, C02
+   7.92433596       1.16147709      0.108523652    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           52
+ Capacitancies, C00, C01, C02
+   7.92433977       1.16148877      0.108524054    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ CYCLE NUMBER           53
+ Capacitancies, C00, C01, C02
+   7.92434502       1.16149974      0.108524360    
+ Capacitancies normalized to C1D=epsilon*(L/D),
+ C1D=   1.58666658     C00D=   0.00000000     C01D=   4.57481910E-41 C02D=   1.40129846E-45
+  
+ THE RESOLUTION WAS=       32768 L=          16
+ DEPTH W=   120.000000     SEPERATION         104
+ RUN No            1
+ **********************************************
